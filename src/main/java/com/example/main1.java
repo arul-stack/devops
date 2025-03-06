@@ -7,6 +7,6 @@ public class main1
 			}
 		public static void main(String[] args)
 			{
-				System.out.Println(new main1().greet());
+				System.out.println(new main1().greet());
 			}
 	}
